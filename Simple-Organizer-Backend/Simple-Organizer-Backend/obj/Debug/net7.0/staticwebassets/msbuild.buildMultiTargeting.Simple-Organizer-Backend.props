@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Simple-Organizer-Backend.props" />
+</Project>
